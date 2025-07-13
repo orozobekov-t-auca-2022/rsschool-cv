@@ -2,17 +2,17 @@
 
 2. +996705511826, TG(@ItzTilya), Discord(Tilek (@orozobekov-t-auca-2022)), email( tilekusupbekov678@gmail.com )
 
-3. ### О себе
-   Я студент 4го курса Американского Университета Центральной Азии по направлению Программная Инженерия. Активно развиваюсь в сфере Web программирования. Имею 8 месичный опыт работы в качестве frontend разработчика. Сначала стажировался в компании ОсОО TimelySkills, где работал в команде с другими разработчиками. Мы создавали веб приложение для широкого использования. Потом развивался в команде разработчиков университета, где мы создавали веб приложения. Помимо работы в команде у меня также есть социальный проект. Я сам создал сайт для Общественного Объединения Садоводов Маки. В работе на социальным проектом я смог на прямую общаться с клиентом, также я продумывал архитектуру приложения и в конце концов задеплоил приложение. Сейчас оно находится в интернете. Целью проекта было обратить внимание людей на проблемы экологии в Кыргызстане. Помимо этого я изучаю другие языки программирования: Java, Python. Я также интересуюсь разработкой нейро сетей. В свободное время тренируюсь, играю в шахматы и работаю.
+3. ### About me
+   I am a senior student at American University of Central Asia studying Software Engineering. I am actively improving my skills in Web programming. I have 8 month experience of work as a frontend engineer. At the beginning, I had internship at LLC TimelySkills, where I worked together with other engineers. We built web applications for widespread use. Then I worked in the university team of developers. I also have my own social project, where I built web application for the Public Association of Gardeners Maki. I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people's attention to the problems of ecology in Kyrgyzstan. Furthermore, I learn other languages, such as Java and Python. I am interested in building neural networks.  
 
-5. ### Навыки:
-* Языки программирования: JavaScript, Java, TypeScript, HTML(язык разметки), CSS(язык стилей)
-* Фреймворки: React
-* Системы контроля версий: Git
-* Инструменты разработки: Vite
-* Прочие инструменты разработки: Redux, React Hook Form
+5. ### Skills:
+* Programming languages: JavaScript, Java, TypeScript, HTML(язык разметки), CSS(язык стилей)
+* Frameworks: React
+* Version Control Systems: Git
+* Tools of development: Vite
+* Other libraries and tools: Redux, React Hook Form
 
-5. ### Пример кода
+5. ### Example of code
 ```
 import MainPage from './pages/Landing/MainPage'
 import { Routes, Route, Link} from 'react-router-dom'
@@ -40,40 +40,40 @@ function App() {
 export default App
 ```
 
-6. ### Опыт работы
+6. ### Experience
   1. ##### ОсОО TimelySkills
-     Август 2024 - Январь 2025
-     * Разрабатывал вебсайты и веб интерфейсы для создания и управления справочниками для CRM систем.
-     * Использовал современные технологии и инструменты разработки, включая технологии: React, Material UI, Redux Toolkit, SCSS, для достижения высокого качества продукта.
-     * Связывал фронтенд с бэкендом при помощи REST API и клиент-серверной архитектуры.
-     * Тесно взаимодействовал с другими разработчиками для обеспечения хорошей командной работы.
-     * Успешно провел демонстрацию готового продукта заказчику, получил положительные отзывы.
-    Технологии: React, JavaScript, HTML, CSS, Git, Redux, React Hook Form
+     August 2024 - January 2025
+     * Built web applications for creating and managing surveys in CRM systems
+     * Utilized modern technologies of development, like: React, Material Ui, Redux Toolkit, SCSS.
+     * Integrated frontend with backend with the help of REST API and client-server architecture.
+     * Worked in the team with other engineers to provide good quality product.
+     * Successfully conducted demonstration of the product to the client, got positive feedback.
+    Technologies: React, JavaScript, HTML, CSS, Git, Redux, React Hook Form
   2. ##### SEA club AUCA
-     Февраль 2024 - Настоящее
-     * Разрабатываю вебсайты и веб интерфейсы для создания и управления тасками
-     * Использую современные технологии и инструменты разработки, включая: React, Material UI, Redux Toolkit, SCSS, для достижения высокого качества продукта.
+     February 2024 - Nowadays
+     * Built web application for creating and managing tasks
+     * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
 
-     #### Проекты
-     1. ##### Tаск Менеджер – таск менеджер с сохранением в localstorage
+     #### Projects
+     1. ##### Task Manager – task manager with localstorage
         https://github.com/orozobekov-t-auca-2022/task_manager
-        Это приложение позволяет пользователю создавать, редактировать и удалять задачи с последующим сохранением в localstorage
-        Функциональность включает:
-        * Добавление новых, редактирование существующих и удаление выбранных задач.
-        * Сохранение всех изменений в localstorage.
-        * Адаптивность под мобильные и десктопные устройства.
-        Технологии: React, JavaScript, HTML, CSS, React Hook Form, localstorage
-      2. ##### Социальный проект – Веб-сайт для Общественного Объединения Садоводов "Маки" https://maki.el.kg
-         Разработал с нуля информационный веб-сайт для экологического сообщества «Маки» с целью информирования пользователей о деятельности объединения и повышения осведомленности по     вопросам экологии. Вёл проект самостоятельно — от проектирования дизайна до деплоя.
-          Ключевые достижения:
-          * Реализовал Single Page Application (SPA) на React, обеспечив быструю и плавную навигацию между разделами сайта.
-          * Регулярно взаимодействовал с заказчиком, собирал обратную связь и оперативно вносил улучшения в продукт.
-          * Осуществил деплой на хостинг-платформу “Хостер KG”, обеспечив публичный доступ к сайту.
-          * Сделал адаптивную верстку для разных устройств.
-         Технологии: React, JavaScript, HTML, CSS, Figma, Material UI
+        This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.
+        Functionalities, includes:
+        * Adding, editing and removing tasks.
+        * Storing data at localstorage.
+        * Responsive layout for mobile and desktop devices.
+        Technologies: React, JavaScript, HTML, CSS, React Hook Form, localstorage
+      2. ##### Social project – web application for the Publica Association of Gardeners Maki https://maki.el.kg
+         Built informational web application for ecological community "Maki". I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people's attention to the problems of ecology in Kyrgyzstan.
+          Key achievements:
+          * Designed Single Page Application (SPA) using React, for fast navigation between sections.
+          * Regularly interacted with the client, received feedback and quickly did improvements to the project.
+          * Deployed web application on hosting platform "Hoster KG", by providing public access to the application.
+          * Responsive layout for mobile and desktop applications.
+          Technologies: React, JavaScript, HTML, CSS, Figma, Material UI
 
-7. ### Образование
-   Американский Университет Центральной Азии - по программе Software Engineering 2022-2026
+7. ### Education
+   American University of Central Asia - Software Engineering 2022-2026
 
-8. ### Английский на уровне C1. Учусь в американском вузе, где все говорят на английском.
+8. ### English B2. Study at the american university, where the materials for studying and lectures are in english.
 
