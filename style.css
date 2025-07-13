@@ -1,0 +1,67 @@
+*{
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+.section_cv{
+  width: 1000px;
+  margin: 0 auto 20px auto !important;
+}
+
+.section_profilePhoto{
+  width: 120px;
+  height: 150px;
+}
+.section_name, .section_aboutMe, .section_codeExample, .section_experience, .section_skills, .section_education, .section_language{
+  margin-top: 20px;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(193, 225, 162);
+  padding: 10px;
+}
+
+footer img{
+  height: 100px;
+  width: 200px;
+}
+
+.year{
+  margin-top: 20px;
+}
+
+.section_aboutMe{
+  background-color: rgb(193, 225, 162);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.section_codeExample{
+  background-color: rgb(135, 193, 231);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.section_experience_projects{
+  background-color: rgb(135, 193, 231);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.footer_container{
+  width: 1000px;
+  margin: 0 auto !important;
+  display: flex;
+  justify-content: space-between;
+}
+
+header{
+  background-color: rgb(135, 193, 231);
+  color: white;
+  font-size: 20px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px !important;
+  padding-left: 20px;
+}
