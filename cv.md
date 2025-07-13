@@ -43,17 +43,17 @@ function correct(string)
 ```
 
 6. ## Experience
-   1. ### ОсОО TimelySkills
+   1. ### LLC TimelySkills
       August 2024 - January 2025
       * Built web applications for creating and managing surveys in CRM systems
       * Utilized modern technologies of development, like: React, Material Ui, Redux Toolkit, SCSS.
       * Integrated frontend with backend with the help of REST API and client-server architecture.
       * Worked in the team with other engineers to provide good quality product.
       * Successfully conducted demonstration of the product to the client, got positive feedback. Technologies: React, JavaScript, HTML, CSS, Git, Redux, React Hook Form
-  2. ### SEA club AUCA
+   2. SEA club AUCA
      February 2024 - Nowadays
-     * Built web application for creating and managing tasks
-     * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
+      * Built web application for creating and managing tasks
+      * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
     
   Projects
     1. ### Task Manager – task manager with localstorage
