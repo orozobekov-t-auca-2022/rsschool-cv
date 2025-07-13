@@ -55,7 +55,7 @@ function correct(string)
      * Built web application for creating and managing tasks
      * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
     
-  ## Projects
+  Projects
     1. ### Task Manager – task manager with localstorage
       https://github.com/orozobekov-t-auca-2022/task_manager   
       This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.  
@@ -74,4 +74,4 @@ function correct(string)
 7. ## Education
    ### American University of Central Asia - Software Engineering 2022-2026
 
-8. ## English B2. Study at the american university, where the materials for studying and lectures are in english.
+8. ## English B2.
