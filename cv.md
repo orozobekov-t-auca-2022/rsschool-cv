@@ -1,4 +1,4 @@
-1. #Tilek Orozobekov
+1. # Tilek Orozobekov
 
 2. +996705511826
 TG: @ItzTilya
