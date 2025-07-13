@@ -1,8 +1,8 @@
 1. # Tilek Orozobekov
 
-2. +996705511826
-TG: @ItzTilya
-Discord: Tilek (@orozobekov-t-auca-2022)
+2. +996705511826  
+TG: @ItzTilya  
+Discord: Tilek (@orozobekov-t-auca-2022)  
 email: tilekusupbekov678@gmail.com
 
 3. ## About me
