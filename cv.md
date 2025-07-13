@@ -16,31 +16,30 @@
 * Other libraries and tools: Redux, React Hook Form
 
 5. ### Example of code
+https://www.codewars.com/kata/577bd026df78c19bca0002c0/javascript
 ```
-import MainPage from './pages/Landing/MainPage'
-import { Routes, Route, Link} from 'react-router-dom'
-import Donation from './pages/Donation/Donation'
-import Layout from './components/layout/Layout'
-import Quiz from './pages/Quiz/Quiz'
-import Facts from './pages/Facts/Facts'
-
-function App() {
-  return (
-    <>
-      <Routes>
-        <Route path='/' element={<Layout/>}>
-          <Route index element={<MainPage></MainPage>}/>
-          <Route path='/quiz' element={<Quiz/>}/>
-          <Route path='/donation' element={<Donation/>}/>
-          <Route path='/facts' element={<Facts/>}/>
-        </Route>
-      </Routes>
-      {/* <MainPage /> */}
-    </>
-  )
+function correct(string)
+{
+	// your code here
+  let newText = "";
+  for(let i = 0; i < string.length; i++) {
+    switch(string[i]) {
+        case '5':
+          newText += 'S';
+          break;
+        case '0':
+          newText += 'O';
+          break;
+        case '1':
+          newText += 'I';
+          break;
+        default:
+          newText += string[i];
+          break;
+    }
+  }
+  return newText;
 }
-
-export default App
 ```
 
 6. ### Experience
