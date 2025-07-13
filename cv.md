@@ -16,7 +16,6 @@
 * Other libraries and tools: Redux, React Hook Form
 
 5. ### Example of code
-
 https://www.codewars.com/kata/577bd026df78c19bca0002c0/javascript
 ```
 function correct(string)
