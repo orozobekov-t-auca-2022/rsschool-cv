@@ -55,15 +55,15 @@ function correct(string)
       * Built web application for creating and managing tasks
       * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
 
-Projects
-    1. ### Task Manager – task manager with localstorage
+##Projects
+    1. ###Task Manager – task manager with localstorage
       https://github.com/orozobekov-t-auca-2022/task_manager   
       This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.  
       Functionalities, includes:
       * Adding, editing and removing tasks.
       * Storing data at localstorage.
       * Responsive layout for mobile and desktop devices. Technologies: React, JavaScript, HTML, CSS, React Hook Form, localstorage  
-    2. ### Social project – web application for the Publica Association of Gardeners Maki https://maki.el.kg  
+    2. ###Social project – web application for the Publica Association of Gardeners Maki https://maki.el.kg  
       Built informational web application for ecological community “Maki”. I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people’s attention to the problems of ecology in Kyrgyzstan.   
       Key achievements:  
       * Designed Single Page Application (SPA) using React, for fast navigation between sections.  
