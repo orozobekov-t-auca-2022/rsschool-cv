@@ -87,4 +87,7 @@ function correct(string)
    #### American University of Central Asia - Software Engineering 2022-2026
    #### Rolling Scopes School Stage 0 - Frontend Engineering 2025 Q3
 
-10. ## English B2.
+10. ## Languages
+	English C1
+	Russian Fluent
+	Kyrgyz Native
