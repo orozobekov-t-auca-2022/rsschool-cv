@@ -85,5 +85,6 @@ function correct(string)
 
 8. ## Education
    ### American University of Central Asia - Software Engineering 2022-2026
+   ### Rolling Scopes School Stage 0 - Frontend Engineering 2025 Q3
 
-9. ## English B2.
+10. ## English B2.
