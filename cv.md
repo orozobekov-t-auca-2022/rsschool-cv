@@ -1,4 +1,5 @@
 1. # Tilek Orozobekov
+![Image](https://github.com/user-attachments/assets/d0ee50cd-9476-4372-8fd5-c44038261db8)
 
 2. ## Contact Information
    +996705511826  
@@ -88,6 +89,6 @@ function correct(string)
    #### Rolling Scopes School Stage 0 - Frontend Engineering 2025 Q3
 
 10. ## Languages
-	English C1
-	Russian Fluent
+	English C1     
+	Russian Fluent      
 	Kyrgyz Native
