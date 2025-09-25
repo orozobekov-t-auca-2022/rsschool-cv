@@ -1,5 +1,5 @@
 1. # Tilek Orozobekov
-<img src="[https://via.placeholder.com/600x400](https://github.com/user-attachments/assets/d0ee50cd-9476-4372-8fd5-c44038261db8)" alt="Example" width="300" />
+<img src="https://github.com/user-attachments/assets/d0ee50cd-9476-4372-8fd5-c44038261db8" alt="Example" width="300" />
 
 2. ## Contact Information
    +996705511826  
