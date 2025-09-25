@@ -84,7 +84,7 @@ function correct(string)
       	* Responsive layout for mobile and desktop applications. Technologies: React, JavaScript, HTML, CSS, Figma, Material UI  
 
 8. ## Education
-   ### American University of Central Asia - Software Engineering 2022-2026
-   ### Rolling Scopes School Stage 0 - Frontend Engineering 2025 Q3
+   #### American University of Central Asia - Software Engineering 2022-2026
+   #### Rolling Scopes School Stage 0 - Frontend Engineering 2025 Q3
 
 10. ## English B2.
