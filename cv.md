@@ -75,7 +75,7 @@ function correct(string)
       	* Adding, editing and removing tasks.  
       	* Storing data at localstorage.  
       	* Responsive layout for mobile and desktop devices. Technologies: React, JavaScript, HTML, CSS, React Hook Form, localstorage  
-      3. #### Social project – web application for the Publica Association of Gardeners Maki [Live Demo](https://maki.el.kg)
+      2. #### Social project – web application for the Publica Association of Gardeners Maki [Live Demo](https://maki.el.kg)
          Built informational web application for ecological community “Maki”. I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people’s attention to the problems of ecology in Kyrgyzstan.     
          Key achievements:  
       	* Designed Single Page Application (SPA) using React, for fast navigation between sections.  
