@@ -24,7 +24,8 @@ I desire to work at Epam Systems as a Software Engineer because I have the same 
   * Frameworks: React
   * Version Control Systems: Git
   * Tools of development: Vite
-  * Other libraries and tools: Redux, React Hook Form, REST API, NestJS, Fetch Api
+  * Other libraries and tools: Redux, React Hook Form, REST API, NestJS, Fetch Api, Figma
+  * Methodologies: Agile Scrum 
 
 5. ## Example of code
    Problem from the link https://www.codewars.com/kata/577bd026df78c19bca0002c0/javascript
