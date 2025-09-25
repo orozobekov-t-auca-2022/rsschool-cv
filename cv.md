@@ -70,7 +70,7 @@ function correct(string)
       * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
    3. ### Projects
       	1. #### Task Manager – task manager with localstorage
-      	https://github.com/orozobekov-t-auca-2022/task_manager   
+      	[GitHub Repository](https://github.com/orozobekov-t-auca-2022/task_manager)   
       	This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.    
       	Functionalities, includes:  
       	* Adding, editing and removing tasks.  
