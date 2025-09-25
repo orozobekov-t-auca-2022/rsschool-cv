@@ -1,14 +1,20 @@
 1. # Tilek Orozobekov
 
-2. +996705511826  
-TG: @ItzTilya  
-Discord: Tilek (@orozobekov-t-auca-2022)  
-email: tilekusupbekov678@gmail.com
+2. ## Contact Information
+   +996705511826  
+	TG: @ItzTilya  
+	Discord: Tilek (@orozobekov-t-auca-2022)  
+	email: tilekusupbekov678@gmail.com
 
-3. ## About me
-   I am a senior student at American University of Central Asia studying Software Engineering. I am actively improving my skills in Web programming. I have 8 month experience of work as a frontend engineer. At the beginning, I had internship at LLC TimelySkills, where I worked together with other engineers. We built web applications for widespread use. Then I worked in the university team of developers. I also have my own social project, where I built web application for the Public Association of Gardeners Maki. I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people’s attention to the problems of ecology in Kyrgyzstan. Furthermore, I learn other languages, such as Java and Python. I am interested in building neural networks.
+4. ## About me
+I am a senior student at American University of Central Asia studying Software Engineering. I am actively improving my skills in Web programming. I set big goals and I like achieving them.
+I set goal of working as a software engineer at a leading company such as Epam Systems. I believe that I can achieve my goals with the help of hard work, consistency and discipline to give 100% everyday to be better version of myself.
+I have 8 month experience of professional work as a frontend engineer. At the beginning, I had internship at LLC TimelySkills, where I worked together with other engineers. We built web applications for widespread use. Then I worked in the university team of developers. 
+In addition, I launched social project, where I built web application for the Public Association of Gardeners Maki. I was able to talk to the client, design the application and deploy the project on the internet. The goal of the project was to attract people’s attention to the problems of ecology in Kyrgyzstan. 
+My technical skills include: HTML, CSS, JavaScript, TypeScript, React, Redux, NestJS, Git version control systems, REST API. 
+I desire to work at Epam Systems as a Software Engineer because I have the same value of continuous improvement and of learning everyday.
 
-4. ## Skills:
+6. ## Skills:
   * Programming languages: JavaScript, Java, TypeScript, HTML(язык разметки), CSS(язык стилей)
   * Frameworks: React
   * Version Control Systems: Git
