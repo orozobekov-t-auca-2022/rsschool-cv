@@ -20,11 +20,11 @@ My technical skills include: HTML, CSS, JavaScript, TypeScript, React, Redux, Ne
 I desire to work at Epam Systems as a Software Engineer because I have the same value of continuous improvement and of learning everyday.
 
 6. ## Skills:
-  * Programming languages: JavaScript, Java, TypeScript, HTML(язык разметки), CSS(язык стилей)
+  * Programming languages: JavaScript, TypeScript, HTML, CSS
   * Frameworks: React
   * Version Control Systems: Git
   * Tools of development: Vite
-  * Other libraries and tools: Redux, React Hook Form
+  * Other libraries and tools: Redux, React Hook Form, REST API, NestJS, Fetch Api
 
 5. ## Example of code
    Problem from the link https://www.codewars.com/kata/577bd026df78c19bca0002c0/javascript
