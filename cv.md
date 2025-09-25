@@ -1,5 +1,5 @@
 1. # Tilek Orozobekov
-![Image](https://github.com/user-attachments/assets/d0ee50cd-9476-4372-8fd5-c44038261db8)
+![Image for CV](https://github.com/user-attachments/assets/d0ee50cd-9476-4372-8fd5-c44038261db8){ width=300px }
 
 2. ## Contact Information
    +996705511826  
