@@ -63,7 +63,7 @@ function correct(string)
       * Worked in the team with other engineers to provide good quality product.
       * Successfully conducted demonstration of the product to the client, got positive feedback. Technologies: React, JavaScript, HTML, CSS, Git, Redux, React Hook Form
       
-	**SEA club AUCA**
+	  **SEA club AUCA**
         February 2024 - Nowadays
       * Built web application for creating and managing tasks
       * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
