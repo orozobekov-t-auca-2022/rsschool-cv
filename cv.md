@@ -69,9 +69,9 @@ function correct(string)
       * Built web application for creating and managing tasks
       * Utilized modern technologies for development like: React, Material UI, Redux Toolkit, SCSS.
    3. ### Projects
-      1. #### Task Manager – task manager with localstorage [GitHub Repository](https://github.com/orozobekov-t-auca-2022/task_manager)   
-      	This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.    
-      	Functionalities, includes:  
+      1. #### Task Manager – task manager with localstorage [GitHub Repository](https://github.com/orozobekov-t-auca-2022/task_manager)
+         This application allows user to create, edit and remove tasks with. All the data is stored at localstorage so that user do not have to enter the data again after closing the app.
+         Functionalities, includes:  
       	* Adding, editing and removing tasks.  
       	* Storing data at localstorage.  
       	* Responsive layout for mobile and desktop devices. Technologies: React, JavaScript, HTML, CSS, React Hook Form, localstorage  
