@@ -1,0 +1,115 @@
+*{
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+.section_cv{
+  width: 1000px;
+  margin: 0 auto 20px auto !important;
+}
+
+h1{
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  letter-spacing: 2px; 
+}
+
+.section_profilePhoto{
+  width: 120px;
+  border-radius: 50%;
+  height: auto;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
+}
+.section_name, .section_aboutMe, .section_codeExample, .section_experience, .section_skills, .section_education, .section_language{
+  margin-top: 20px;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(223, 223, 49);
+  padding: 10px;
+}
+
+footer img{
+  height: 100px;
+  width: 200px;
+}
+
+.year{
+  margin-top: 20px;
+}
+
+.section_aboutMe{
+  background-color: rgb(223, 223, 49);
+  border-radius: 10px;
+  padding: 10px;
+}
+.section_aboutMe:hover {
+  box-shadow: 0 15px 35px rgba(223, 223, 49, 0.7);
+}
+
+.section_codeExample{
+  background-color: rgb(135, 193, 231);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.section_experience_projects{
+  background-color: rgb(135, 193, 231);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.footer_container{
+  width: 1000px;
+  margin: 0 auto !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header{
+  background: linear-gradient(135deg, rgb(135, 193, 231), rgb(135, 193, 231));
+  color: white;
+  font-size: 20px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px !important;
+  padding: 0 20px;
+  justify-content: space-between;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  padding: 0;
+  list-style-type: none;
+}
+
+pre {
+  background: #2d3748;
+  color: #e2e8f0;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  border-left: 4px solid #4a90e2;
+}
+
+.section_work{
+  background: linear-gradient(135deg, #f093fb, #f5576c);
+}
+
+#section_projects{
+  background: linear-gradient(135deg, #3c8b91, rgba(223, 223, 49, 0.7));
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
+nav ul li:hover {
+  background: rgba(223, 223, 49, 0.2);
+  border-left: 4px solid #ffd700;
+}
+a{
+  text-decoration: none;
+}
